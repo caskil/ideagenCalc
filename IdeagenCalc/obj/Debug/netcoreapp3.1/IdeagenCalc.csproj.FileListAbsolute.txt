@@ -1,0 +1,13 @@
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\bin\Debug\netcoreapp3.1\IdeagenCalc.exe
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\bin\Debug\netcoreapp3.1\IdeagenCalc.deps.json
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\bin\Debug\netcoreapp3.1\IdeagenCalc.runtimeconfig.json
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\bin\Debug\netcoreapp3.1\IdeagenCalc.runtimeconfig.dev.json
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\bin\Debug\netcoreapp3.1\IdeagenCalc.dll
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\bin\Debug\netcoreapp3.1\IdeagenCalc.pdb
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.csprojAssemblyReference.cache
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.AssemblyInfoInputs.cache
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.AssemblyInfo.cs
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.csproj.CoreCompileInputs.cache
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.dll
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.pdb
+C:\Users\cktaix\source\repos\IdeagenCalc\IdeagenCalc\obj\Debug\netcoreapp3.1\IdeagenCalc.genruntimeconfig.cache
