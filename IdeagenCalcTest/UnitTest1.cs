@@ -12,7 +12,7 @@ namespace IdeagenCalcTest
         public void Calculate_EmptyStringInput_Return0()
         {
             Exception ex = Assert.Throws<Exception>(() => Calculator.Calculate(""));
-            Assert.Equal("Expression string cannot be null or empty...", ex.Message);
+            Assert.Equal("Expression string cannot be null or empty.", ex.Message);
         }
 
         [Theory]
