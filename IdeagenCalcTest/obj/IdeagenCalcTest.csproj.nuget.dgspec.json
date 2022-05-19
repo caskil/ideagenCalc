@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj": {}
+    "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj": {
+    "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj",
+        "projectUniqueName": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj",
         "projectName": "IdeagenCalcTest",
-        "projectPath": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj",
-        "packagesPath": "C:\\Users\\cktaix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalcTest\\obj\\",
+        "projectPath": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalcTest\\IdeagenCalcTest.csproj",
+        "packagesPath": "C:\\Users\\cheekuan.tai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalcTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cktaix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cheekuan.tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,17 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/OrchestrationEngine/_packaging/Orchestration_Engine_Core/nuget/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/_packaging/drepackage/nuget/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/_packaging/drepackage@Prerelease/nuget/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/_packaging/drepackage@Release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalc\\IdeagenCalc.csproj": {
-                "projectPath": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalc\\IdeagenCalc.csproj"
+              "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalc\\IdeagenCalc.csproj": {
+                "projectPath": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalc\\IdeagenCalc.csproj"
               }
             }
           }
@@ -48,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -76,29 +71,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalc\\IdeagenCalc.csproj": {
+    "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalc\\IdeagenCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalc\\IdeagenCalc.csproj",
+        "projectUniqueName": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalc\\IdeagenCalc.csproj",
         "projectName": "IdeagenCalc",
-        "projectPath": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalc\\IdeagenCalc.csproj",
-        "packagesPath": "C:\\Users\\cktaix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cktaix\\source\\repos\\IdeagenCalc\\IdeagenCalc\\obj\\",
+        "projectPath": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalc\\IdeagenCalc.csproj",
+        "packagesPath": "C:\\Users\\cheekuan.tai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cheekuan.tai\\source\\repos\\ideagenCalc\\IdeagenCalc\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cktaix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cheekuan.tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,14 +112,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/OrchestrationEngine/_packaging/Orchestration_Engine_Core/nuget/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/_packaging/drepackage/nuget/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/_packaging/drepackage@Prerelease/nuget/v3/index.json": {},
-          "https://cbapcrs.pkgs.visualstudio.com/_packaging/drepackage@Release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -125,6 +128,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -135,12 +139,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.24, 3.1.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
